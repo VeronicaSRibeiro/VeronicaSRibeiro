@@ -11,6 +11,8 @@
 
 <h1 align="center">I'm Veronica, a Brazilian Software Engineer | Backend Developer 👋🏼</h1>
 
+<p>I'm a Software Engineer from Brazil focused on backend development using Java, Spring Boot, and RESTful APIs.<p>
+
 ###
 
 <h2 align="center">🔥   My GitHub Stats </h2>

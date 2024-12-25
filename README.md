@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ver%C3%B4nica-ribeiro-53b267244/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"           alt="linkedin logo" />
   </a>
@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">I'm Veronica, a Brazilian Software Engineer | Backend Developer 👋🏼</h1>
+<h1 align="left">I'm Veronica, a Brazilian Software Engineer | Backend Developer 👋🏼</h1>
 
 <p align="center">Software Engineer focused on backend development using Java, Spring Boot, and RESTful APIs<p>
 
@@ -19,7 +19,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />

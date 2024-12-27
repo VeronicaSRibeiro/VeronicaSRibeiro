@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="left">I'm Veronica, a Brazilian Software Engineer | Backend Developer 👋🏼</h1>
+<h1 align="left"> 👋🏼 I'm Veronica, a Brazilian Software Engineer | Backend Developer</h1>
 
 <p left="center">Software Engineer focused on backend development using Java, Spring Boot, and RESTful APIs<p>
 
